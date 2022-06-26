@@ -1,2 +1,2 @@
 # Dotfiles 
-This is use by Jhonnatan Mendez
+This repository is used by Jhonnatan Mendez
