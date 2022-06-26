@@ -1,0 +1,9 @@
+[user]
+	name = Jhonnatan Mendez
+	email = jhonnatandavid34mc@gmail.com
+[core]
+	editor = vim
+[color]
+	status = auto
+	interactive = auto
+	branch = auto
