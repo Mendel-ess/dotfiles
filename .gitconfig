@@ -7,5 +7,11 @@
 	status = auto
 	interactive = auto
 	branch = auto
+	ui = auto
 [pull]
 	rebase = false
+[color "branch"]
+	current = green
+	remote = yellow
+[init]
+	defaultBranch = master
