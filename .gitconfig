@@ -4,6 +4,7 @@
 [core]
 	editor = vim
 [color]
+	diff = auto
 	status = auto
 	interactive = auto
 	branch = auto
@@ -14,4 +15,4 @@
 	current = green
 	remote = yellow
 [init]
-	defaultBranch = master
+	defaultBranch = main
